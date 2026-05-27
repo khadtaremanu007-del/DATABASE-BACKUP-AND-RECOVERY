@@ -33,19 +33,27 @@ Overall, this task provides practical experience in database maintenance, disast
 
 <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/7d413e27-6649-4798-9c04-a1105483da51" />
 <br>
+<br>
 <img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/e26c275d-caf2-4d3f-a5fa-d9077290949f" />
+<br>
 <br>
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/c659ec98-95e8-4847-8d7c-d9f53fe95942" />
 <br>
+<br>
 <img width="500" height="150" alt="Image" src="https://github.com/user-attachments/assets/4b4ad81c-125a-4bc7-b49b-bf0c86e668ca" />
+<br>
 <br>
 <img width="500" height="100" alt="Image" src="https://github.com/user-attachments/assets/16245f2b-1530-4922-b87b-43cb4630fd34" />
 <br>
+<br>
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4aa22572-66b4-453c-a75a-cc4e78be93db" />
+<br>
 <br>
 <img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/654d994d-5184-4269-af5c-c5f7c433065c" />
 <br>
+<br>
 <img width="500" height="100" alt="Image" src="https://github.com/user-attachments/assets/16910be5-8669-40c3-910d-0541893ee032" />
+<br>
 <br>
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/9f914bbe-42e0-4446-ab7d-c32bf179d5d1" />
 <br>
