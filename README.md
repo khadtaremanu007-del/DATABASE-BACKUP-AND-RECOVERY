@@ -30,4 +30,19 @@ The deliverables for this task include backup scripts, recovery scripts, backup 
 Overall, this task provides practical experience in database maintenance, disaster recovery, and data protection strategies. It highlights the importance of regular backups in preventing permanent data loss and ensuring system reliability. By completing this task, users gain essential database administration skills that are widely used in professional database management and enterprise-level applications.
 
 ## OUTPUT
-Testing and verification are important stages in this task. Backup files are tested by restoring them into a separate environment to ensure they are functional and not corrupted. This helps guarantee reliability during actual recovery situations. Documentation is maintained throughout the process to record backup schedules, commands used, storage locations, and recovery steps.
+
+<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/7d413e27-6649-4798-9c04-a1105483da51" />
+<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/e26c275d-caf2-4d3f-a5fa-d9077290949f" />
+<br>
+<img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/c659ec98-95e8-4847-8d7c-d9f53fe95942" />
+<img width="500" height="150" alt="Image" src="https://github.com/user-attachments/assets/4b4ad81c-125a-4bc7-b49b-bf0c86e668ca" />
+<br>
+<img width="500" height="100" alt="Image" src="https://github.com/user-attachments/assets/16245f2b-1530-4922-b87b-43cb4630fd34" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4aa22572-66b4-453c-a75a-cc4e78be93db" />
+<br>
+<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/654d994d-5184-4269-af5c-c5f7c433065c" />
+<img width="500" height="100" alt="Image" src="https://github.com/user-attachments/assets/16910be5-8669-40c3-910d-0541893ee032" />
+<br>
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/9f914bbe-42e0-4446-ab7d-c32bf179d5d1" />
+<img width="500" height="110" alt="Image" src="https://github.com/user-attachments/assets/ff4db828-bf7c-47e6-8046-8551cdd78f7f" />
+<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/43c2e9b4-f933-446b-b624-6e256a51eb60" />
