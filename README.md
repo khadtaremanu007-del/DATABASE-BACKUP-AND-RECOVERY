@@ -57,6 +57,8 @@ Overall, this task provides practical experience in database maintenance, disast
 <br>
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/9f914bbe-42e0-4446-ab7d-c32bf179d5d1" />
 <br>
+<br>
 <img width="500" height="110" alt="Image" src="https://github.com/user-attachments/assets/ff4db828-bf7c-47e6-8046-8551cdd78f7f" />
+<br>
 <br>
 <img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/43c2e9b4-f933-446b-b624-6e256a51eb60" />
